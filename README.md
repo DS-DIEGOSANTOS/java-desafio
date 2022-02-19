@@ -23,10 +23,13 @@ Tabela de conteúdos
 
 # como-usar
 
-<p> todas as perguntas estao no package Questoes </p>
+<p> todas as perguntas estao no package Questoes que contem pastas onde encontramos as classes</p>
+
 <p> questao 1 :  Questoes/pergunta1/    </p>
 <p> questao 2 :  Questoes/pergunta2/    </p>
 <p> questao 3 :  Questoes/pergunta3/    </p>
+
+<p> cada classe tem um metodo main para exercuta cada pergunta
 
 
 # pre-requisitos
